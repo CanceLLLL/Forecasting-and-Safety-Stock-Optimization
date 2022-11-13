@@ -9,4 +9,4 @@ Instead of having defined static Safety Stock, he/she wants to know “What is n
 
 Predict new safety stock of item "XYZ"
 
-Demand forcasting using time series analysis and safety stock optimization to provide desired service level
+Demand forcasting using time series analysis and safety stock optimization to provide desired service level.
