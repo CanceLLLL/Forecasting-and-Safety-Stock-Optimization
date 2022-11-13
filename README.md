@@ -1,4 +1,4 @@
-# demand_forcasting_and_safety_stock_management
+# Forecasting_and_Safety_Stock_Optimization
 For most retailers, inventory management systems take a fixed, rule-based approach to forecast and replenishment orders management.Considering the distribution of the demand, the objective is to build a replenishment policy that will minimize your ordering, holding and shortage costs.
 
 As-Is:-
